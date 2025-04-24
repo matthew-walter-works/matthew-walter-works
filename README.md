@@ -11,7 +11,7 @@ From bootstrapping cloud-native platforms at startups to leading globally distri
 
 🛠️ what do i do?
 
-Right now, I’m partnering with teams through tje consulting firm, **Solid Endeavor**, helping them level up their infrastructure, automation, and security. Previously, I was Head of Infrastructure at Equilibrium Energy, where I led a platform team focused on scalable, secure Kubernetes environments across AWS.
+Right now, I’m partnering with teams through **Solid Endeavor**, helping them level up their infrastructure, automation, and security. Previously, I was Head of Infrastructure at Equilibrium Energy, where I led a platform team focused on scalable, secure Kubernetes environments across AWS.
 
 Before that, I held principal engineering and management roles at Vimeo, CVS, and Aetna, delivering solutions in CI/CD, developer security, observability, and data platforms.
 
