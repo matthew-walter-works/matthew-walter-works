@@ -35,4 +35,4 @@ When I’m not behind a keyboard, I’m likely doing something outdoors: fly fis
 
 ---
 
-🧭 if you're building something fun / big and or ambitious and want a steady hand on platform or delivery, let's talk.
+🧭 if you're building something fun, big and or ambitious and want a steady hand on platform or delivery, let's talk.
